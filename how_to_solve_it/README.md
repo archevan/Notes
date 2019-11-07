@@ -1,1 +1,1 @@
-# *How to Solve It* by George Polya
+# *How to Solve It* by George Polya :graph:
