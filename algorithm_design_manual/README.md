@@ -1,1 +1,1 @@
-# Algorithm Design Manual *by Steven Skiena* 
+# Algorithm Design Manual *by Steven Skiena* :floppy_disk:
