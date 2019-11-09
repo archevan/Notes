@@ -9,3 +9,6 @@ An *algorithm* always produces a correct result, whereas a *heuristic* typically
 provides a result that's good enough with no guarantee to always produce the
 correct result. There may be edge input cases that produce sub-optimal behavior.
 (Ex. Traveling Salesman Problem) 
+
+Algorithms that look "reasonable" can easily be incorrect. It's important to show
+that your algorithms are correct. 
