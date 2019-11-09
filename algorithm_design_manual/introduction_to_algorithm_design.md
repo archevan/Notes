@@ -5,7 +5,7 @@ We (as engineers) look for three things in a good algorithm. It should be
 *correct*, *efficient*, and *easy to implement.* Sometimes, all of these can't
 be achieved but we can find an algorithm that's "good enough."
 
-An "algorithm" always produces a correct result, whereas a "heuristic" typically
+An *algorithm* always produces a correct result, whereas a *heuristic* typically
 provides a result that's good enough with no guarantee to always produce the
 correct result. There may be edge input cases that produce sub-optimal behavior.
 (Ex. Traveling Salesman Problem) 
