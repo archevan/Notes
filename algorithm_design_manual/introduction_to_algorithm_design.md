@@ -18,4 +18,4 @@
 - A good technique is to restrict the set of valid inputs until a "correct and
   efficient" algorithm can be found.
 	- Restrict graphs to trees.
-	- Restrict a 3D to 2D.
+	- Restrict a 3D problem to 2D.
