@@ -36,9 +36,13 @@
   to keep in mind while looking for them.
 	- *Think small.* Smaller examples are easier to think about and easier to
 	  test.
-> ... when algorithms fail, there is usually a very simple example on which they
-> fail.
-
 	- *Think exhaustively.* There all only a few possibilities for the smallest
 	  non-trivial values of n. Think about all of the interesting cases and use
 	  them to build your counter-example.
+	- *Go for a Tie.* If you want to break a greedy heuristic, make everything
+	  the same size. There's nothing to base decisions on anymore.
+	- *Seek Extremes.* Many counter-examples hinge on extreme cases. Huge and
+	  tiny. Far and near. Few and many. Left and right.
+
+> ... when algorithms fail, there is usually a very simple example on which they
+> fail.
