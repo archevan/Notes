@@ -38,6 +38,7 @@
 	  test.
 > ... when algorithms fail, there is usually a very simple example on which they
 > fail.
+
 	- *Think exhaustively.* There all only a few possibilities for the smallest
 	  non-trivial values of n. Think about all of the interesting cases and use
 	  them to build your counter-example.
