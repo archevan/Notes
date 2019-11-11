@@ -25,8 +25,9 @@
 	- Compound goals: Trying to achieve multiple well-defined goals makes life
 	  much more complicated.
 
----
+## Is my algorithm correct?
 
+- Before trying to prove correctness, can we first easily show that it's wrong?
 - The best way to show that an algorithm is wrong is a *counter-example.*
 - A good counter-example should be easily verifiable.
 	- Know what answer your algorithm gave, and show that there is a better one.
@@ -46,3 +47,8 @@
 
 > ... when algorithms fail, there is usually a very simple example on which they
 > fail.
+
+### Induction and Recusion a.k.a Magic
+
+- If you don't find a counter-example, you can't just *assume* an algorithm is
+  correct. You need a proof.
