@@ -3,7 +3,7 @@
 
 - We (as engineers) look for three things in a good algorithm. It should be *correct*, *efficient*, and *easy to implement.* Sometimes, all of these can't be achieved but we can find an algorithm that's "good enough."
 
-- An *algorithm* always produces a correct result, whereas a *heuristic* typically provides a result that's good enough with no guarantee to always produce the correct result. There may be edge input cases that produce sub-optimal behavior.(Ex. Traveling Salesman Problem) 
+- An *algorithm* always produces a correct result, whereas a *heuristic* typically provides a result that's good enough with no guarantee to always produce the correct result. There may be edge input cases that produce sub-optimal behavior. (Ex. Traveling Salesman Problem) 
 
 - Algorithms that look "reasonable" can easily be incorrect. It's important to show that your algorithms are correct. 
 
@@ -13,4 +13,9 @@
 	- Each has its own trade-offs between "ease of expression" and precision
 - Use whichever as long as you are **clearly** expressing the idea behind your
   algorithm.
-
+- A well-defined algorithm requires a well-defined problem. Both the input and
+  properties of the output should be clear. 
+- A good technique is to restrict the set of valid inputs until a "correct and
+  efficient" algorithm can be found.
+	- Graphs --> Trees
+	- 3D --> 2D
