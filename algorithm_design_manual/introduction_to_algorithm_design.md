@@ -52,3 +52,17 @@
 
 - If you don't find a counter-example, you can't just *assume* an algorithm is
   correct. You need a proof.
+- Induction is an **extremely** powerful tool to prove the correctness of an
+  algorithm. In general, there are two "steps" to a proof by induction:
+	- First, you have to prove that the algorithm works for certain base cases
+	  (or boundary conditions)
+	- Then, assuming that the algorithm is correct for the *n - 1* case, show
+	  that the *n* case is also true.
+	- That's it. Really.
+- Induction is very similar to recursion in that regard. Both break problems
+  down while looking for certain "base cases."
+- Proofs by Induction are susceptible to subtle reasoning errors.
+
+## Modeling
+
+
