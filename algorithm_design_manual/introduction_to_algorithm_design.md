@@ -17,5 +17,5 @@
   properties of the output should be clear. 
 - A good technique is to restrict the set of valid inputs until a "correct and
   efficient" algorithm can be found.
-	- Graphs --> Trees
-	- 3D --> 2D
+	- Restrict graphs to trees.
+	- Restrict a 3D to 2D.
