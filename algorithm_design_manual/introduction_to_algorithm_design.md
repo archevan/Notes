@@ -19,3 +19,25 @@
   efficient" algorithm can be found.
 	- Restrict graphs to trees.
 	- Restrict a 3D problem to 2D.
+- Two common traps to defining output requirements
+	- Ill-defined questions (ex. Find *best* routes -- What does "best" mean in
+	  this context?)
+	- Compound goals: Trying to achieve multiple well-defined goals makes life
+	  much more complicated.
+
+---
+
+- The best way to show that an algorithm is wrong is a *counter-example.*
+- A good counter-example should be easily verifiable.
+	- Know what answer your algorithm gave, and show that there is a better one.
+- A good counter example should also be simple.
+	- Try to strip away all unnecessary detail. Simplify. Simplify. Simplify. 
+- Finding good counter-examples is a *very* useful skill. There are a few things
+  to keep in mind while looking for them.
+	- *Think small.* Smaller examples are easier to think about and easier to
+	  test.
+> ... when algorithms fail, there is usually a very simple example on which they
+> fail.
+	- *Think exhaustively.* There all only a few possibilities for the smallest
+	  non-trivial values of n. Think about all of the interesting cases and use
+	  them to build your counter-example.
