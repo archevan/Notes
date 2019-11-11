@@ -25,7 +25,7 @@
 	- Compound goals: Trying to achieve multiple well-defined goals makes life
 	  much more complicated.
 
-## Is my algorithm correct?
+## Is my Algorithm Correct?
 
 - Before trying to prove correctness, can we first easily show that it's wrong?
 - The best way to show that an algorithm is wrong is a *counter-example.*
