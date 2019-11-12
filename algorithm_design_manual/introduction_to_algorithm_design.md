@@ -67,6 +67,7 @@
 
 - The art of relating the problem to another well-defined problem.
 - Modeling can eliminate the need to design an algorithm in the first place.
-- Real-world problems involve real-world things. Cars, people, devices, etc...
-  On the other hand, most algorithms are designed for abstract structures like
-graphs, sets, and lists. 
+- Real-world problems involve real-world things.
+  Algorithms, on the other hand, are designed to work with abstract structures like graphs, sets, and lists. 
+- Modeling allows you to express a real-world problem in terms of more abstract
+  structures.
