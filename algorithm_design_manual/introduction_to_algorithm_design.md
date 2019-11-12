@@ -71,3 +71,15 @@
   Algorithms, on the other hand, are designed to work with abstract structures like graphs, sets, and lists. 
 - Modeling allows you to express a real-world problem in terms of more abstract
   structures.
+
+---
+
+- You're not special and neither are your problems. Chances are good that
+  someone *somewhere* has dealt with your problem before in some context. But
+you won't be able to leverage their solution without looking at your problem
+through the lens of "computing properties of common structues."
+- Let's look at some:
+	- *Permutations:* Any problem that involves the arrangement or ordering of a
+	  set of items. Keywords are *sequence*, *tour*, *arrangement*, and
+*ordering* (obviously).
+	- 
