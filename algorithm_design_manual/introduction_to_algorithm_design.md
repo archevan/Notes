@@ -82,4 +82,9 @@ through the lens of "computing properties of common structues."
 	- *Permutations:* Any problem that involves the arrangement or ordering of a
 	  set of items. Keywords are *sequence*, *tour*, *arrangement*, and
 *ordering* (obviously).
-	- 
+	- *Subsets:* Any problem that involves a selection of items from a set.
+	  Keywords are *cluster*, *collection*, *committee*, *group*, *packaging*,
+and *selection.*
+	- *Trees:* Any problem that involves hierarchical relationships. Keywords
+	  are *hierarchy*, *dominance relationship*, *ancestor/decendant*, and
+*taxonomy.*
