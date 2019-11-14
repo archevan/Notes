@@ -3,4 +3,5 @@ These notes will cover (most) of the important sections of Steven Skiena's
 classic book on Algorithms and Data Structures.
 
 ## Table of Contents
-*Work in Progress*
+- [Section One: Introduction to Algorithm
+  Design](introduction_to_algorithm_design.md)
