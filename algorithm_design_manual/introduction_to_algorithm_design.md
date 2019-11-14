@@ -88,3 +88,18 @@ and *selection.*
 	- *Trees:* Any problem that involves hierarchical relationships. Keywords
 	  are *hierarchy*, *dominance relationship*, *ancestor/decendant*, and
 *taxonomy.*
+	- *Graphs:* Any problem that involves relationships between arbitrary pairs
+	  of objects. Keywords are *network*, *circuit*, *web*, and *relationship.*
+	- *Points:* Any problem that involves locations in some geometric space.
+	  Keywords are *sites*, *positions*, *data records*, and *locations.*
+	- *Polygons:* Any problem that involves regions in some geometric space.
+	  Keywords are *shapes*, *regions*, *configurations*, and *boundaries.*
+	- *Strings:* Any problem that involves a sequence of characters. Keywords
+	  are *text*, *characters*, *patterns*, and *labels.*
+
+---
+
+All of the abstract structures defined above are also **recursive objects.**
+Meaning that each is made from "smaller things that are exactly the same type as
+the big thing." Removing a node from a trees results in smaller trees, removing
+a character from a string results in a smaller string, etc...
