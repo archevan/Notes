@@ -101,5 +101,5 @@ and *selection.*
 
 All of the abstract structures defined above are also **recursive objects.**
 Meaning that each is made from "smaller things that are exactly the same type as
-the big thing." Removing a node from a trees results in smaller trees, removing
+the big thing." Removing a node from a tree results in smaller trees, removing
 a character from a string results in a smaller string, etc...
