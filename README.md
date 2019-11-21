@@ -12,3 +12,6 @@ scenario that someone else does... **you're welcome.**
 
 ### Planned
 - *How to Solve It* by Polya
+- *NAND to Tetris* Course Notes
+- *Operating Systems: Three Easy Steps*
+- *Lion's Unix Commentary* (MAYBE?)
