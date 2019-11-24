@@ -15,3 +15,4 @@ scenario that someone else does... **you're welcome.**
 - *NAND to Tetris* Course Notes
 - *Operating Systems: Three Easy Steps*
 - *Lion's Unix Commentary* (MAYBE?)
+- *Distributed Systems, 3rd Edition* by Maarten van Steen
